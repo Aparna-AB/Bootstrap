@@ -1,0 +1,123 @@
+
+
+.nav1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+font-style: Metropolis;
+font-size: 12px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 2px;
+text-align: left;
+
+}
+.bg1{
+    width: 100%;
+height: 482px;
+border: 1px solid transparent;
+background-color:  #FFEAF5;
+}
+
+.fa-solid{
+    height: 100px;
+    width:50px;
+    position: absolute;
+    right: 180px;
+    top:28px;
+    color: rgb(186, 7, 133);
+}
+
+
+.btn3{
+    
+    height: 30px;
+    width:80px;
+    position: absolute;
+    right: 100px;
+    top:20px;
+}
+ .btn3:hover{
+    cursor: pointer;
+}
+
+
+
+.img1{
+    margin-top: 100px;
+    margin-left: -30px;
+}
+
+.content1 > h1{
+    text-align: left;
+    position: absolute;
+    top: 180px;
+    left:180px;
+    font-size: 63px;
+    font-weight: 900;
+line-height: 68px;
+}
+
+.content1 > p{
+    position: absolute;
+    top:330px;
+    left:180px;
+    text-align: left;
+    font-style: Metropolis;
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+
+.content1 > .btn1{
+    height: 35px;
+    width:140px;
+    position: absolute;
+    top:400px;
+    left:210px;
+}
+
+.content1 > .btn1:hover{
+    cursor: pointer;
+}
+
+.content1 > .btn2{
+    height: 35px;
+    width:140px;
+    position: absolute;
+    top:400px;
+    left:370px;
+}
+
+.content1 > .btn2:hover{
+    cursor: pointer;
+}
+
+.grid1 >div{
+    display: grid;
+    flex-flow: column;
+    margin-left: 100px;
+}
+.grid1 h4{
+    font-weight: 700;
+    font-size: 22px;
+}
+.grid1 p{
+    color: grey;
+    font-style: Metropolis;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+
+.icon{
+    height:30px;
+    width:30px;
+    margin-bottom: 10px;
+}
